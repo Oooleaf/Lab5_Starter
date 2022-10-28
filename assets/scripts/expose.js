@@ -17,11 +17,11 @@ function init() {
     if(input == 'air-horn'){
       image.src = 'assets/images/air-horn.svg';
       audio.src = 'assets/audio/air-horn.mp3';
-      console.log(audio);
+      
     }
     else if(input == 'car-horn'){
       image.src = 'assets/images/car-horn.svg';
-      audio.src = 'asserts/audio/car-horn.mp3';
+      audio.src = 'assets/audio/car-horn.mp3';
     }
     else if(input == 'party-horn'){
       image.src = 'assets/images/party-horn.svg';
